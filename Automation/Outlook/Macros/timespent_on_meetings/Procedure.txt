@@ -1,0 +1,9 @@
+Quick Install
+Download this code-file (timespent.zip) or copy the code below.
+  -> https://www.howto-outlook.com/howto/timespent.htm#:~:text=To%20make%20calculations%20within%20Outlook,answer%20in%20a%20message%20box.
+Open the VBA Editor (keyboard shortcut ALT+F11)
+Extract the zip-file and import the TimeSpent.bas file via File-> Import…
+If you copied the code paste it into a new module.
+Optionally; set the ShowMileage variable to True to also report the total mileage recorded for the selected items.
+Sign your code so you won’t get any security prompts and the macro won’t get disabled.
+Add a button for easy access to the macro.

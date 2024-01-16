@@ -1,0 +1,5 @@
+1. Copy "cleartemp.bat" file to location
+
+C:\Users\Swapnil.Bhujbal\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
+Swapnil.Bhujbal = username
